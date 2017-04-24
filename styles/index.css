@@ -3,7 +3,7 @@
 }
 
 body {
-  margin: 0; /* Tricky: override browser default */
+  margin: 0; 
   padding: 80px;
 
   font-family: "Roboto", sans-serif;
@@ -15,7 +15,6 @@ body {
   left: 0;
   right: 0;
   padding: 10px;
-
   background-color: #EEEEEE;
   border-bottom: 1px solid #DDDDDD;
 }
@@ -102,7 +101,7 @@ label {
 .search_dir_results {
   font-size: 16px;
   padding: 0 30px;
-  padding: 8px 25px;
+  padding: 8px 15px;
   border-left: 1px solid #DDDDDD;
   border-right: 1px solid #DDDDDD;
 }
