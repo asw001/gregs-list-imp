@@ -9,7 +9,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.nav-bar {
+.nav_bar {
   position: fixed;
   top: 0;
   left: 0;
@@ -20,13 +20,13 @@ body {
   border-bottom: 1px solid #DDDDDD;
 }
 
-.nav_bar {
+.nav_links {
   position: absolute;
   right: 10px;
   top: 10px;
 }
 
-.nav-link {
+.nav_link {
   font-size: 18px;
   padding: 0 6px;
 }
@@ -46,7 +46,7 @@ a:hover {
   font-weight: 800;
 }
 
-.rl-logo h1 {
+.site_name h1 {
   font-weight: normal;
   margin: 0;
   padding: 0;
