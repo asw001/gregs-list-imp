@@ -5,7 +5,6 @@
 body {
   margin: 0; 
   padding: 80px;
-
   font-family: "Roboto", sans-serif;
 }
 
@@ -30,7 +29,6 @@ body {
   padding: 0 6px;
 }
 
-/* Tricky / Interaction not obvious and not annotated, first :hover */
 a {
   text-decoration: none;
 }
@@ -106,8 +104,9 @@ label {
   border-right: 1px solid #DDDDDD;
 }
 
-.search_results {
+.search_result {
   padding: 0;
+  padding-left: 0;
 }
 
 .job {
