@@ -98,10 +98,10 @@ label {
 
 .search_dir_results {
   font-size: 16px;
-  padding: 0 30px;
   padding: 8px 15px;
   border-left: 1px solid #DDDDDD;
   border-right: 1px solid #DDDDDD;
+  display: inline-block;
 }
 
 .search_result {
